@@ -1,0 +1,1 @@
+"use strict";!function(){alert("大东哥")}(),console.log("sdfs");
